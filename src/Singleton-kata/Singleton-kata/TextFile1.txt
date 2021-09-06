@@ -1,0 +1,7 @@
+﻿Sealed es un modificador que impide que otras clases puedan heredar de ella.
+
+También se puede usar sealed + override para invalidar un metodo o propiedad virtual de una clase base. 
+Al incluir el sealded impedimos que se puedan seguir sobreescribiendo en las clases hijas de esta. 
+A partir de ahi ya no se va a poder heredar ese metodo o propiedad.
+
+
